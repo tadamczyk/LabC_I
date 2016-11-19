@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1453400679 source:/home/tomasz/UG/Wstęp do programowania/Laboratoria/Projekt5/main.c
+	<stdio.h>
+	<stdbool.h>
+	"game.h"
+
+1453400697 source:/home/tomasz/UG/Wstęp do programowania/Laboratoria/Projekt5/game.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"game.h"
+
+1453299171 /home/tomasz/UG/Wstęp do programowania/Laboratoria/Projekt5/game.h
+
+1453299255 source:/home/tomasz/UG/Wstęp do programowania/Laboratoria/Projekt5 (kopia)/game.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"game.h"
+
+1453299171 /home/tomasz/UG/Wstęp do programowania/Laboratoria/Projekt5 (kopia)/game.h
+
+1453298734 source:/home/tomasz/UG/Wstęp do programowania/Laboratoria/Projekt5 (kopia)/main.c
+	<stdio.h>
+	<stdbool.h>
+	"game.h"
+

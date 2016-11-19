@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449251953 source:/home/tomasz/Pulpit/StosC/main.c
+	<stdio.h>
+	<stdlib.h>
+
