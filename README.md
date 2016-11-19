@@ -68,7 +68,9 @@ Laboratorium: [dr Janusz Dybizbański](https://inf.ug.edu.pl/~jdybiz/)
   * [x] [zadanie 1](lab10/zad1.c)
   
 ***************************************
-  
+
+Projekty:
+
 1. [Projekt 1](Projekt1):
   * [x] [Projekt 1](Projekt1/Projekt1.c)
 
