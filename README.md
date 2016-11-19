@@ -71,17 +71,12 @@ Laboratorium: [dr Janusz Dybizbański](https://inf.ug.edu.pl/~jdybiz/)
 
 Projekty:
 
-1. [Projekt 1](Projekt1):
-  * [x] [Projekt 1](Projekt1/Projekt1.c)
+1. [Projekt 1](Projekt1/Projekt1.c)
 
-2. [Projekt 2](Projekt2):
-  * [x] [Projekt 2](Projekt2/Projekt2.c)
+2. [Projekt 2](Projekt2/Projekt2.c)
   
-3. [Projekt 3](Projekt3):
-  * [x] [Projekt 3](Projekt3/Projekt3.c)
+3. [Projekt 3](Projekt3/Projekt3.c)
   
-4. [Projekt 4](Projekt4):
-  * [x] [Projekt 4](Projekt4/Projekt4.c)
+4. [Projekt 4](Projekt4/Projekt4.c)
  
-5. [Projekt 5](Projekt5):
-  * [x] [Projekt5](Projekt5/)
+5. [Projekt 5](Projekt5/)
