@@ -12,8 +12,8 @@ int licznik(int x)
 int main()
 {
 	int n;
-    printf("Podaj liczbe calkowita:\n");
-    scanf("%d",&n);
+	printf("Podaj liczbe calkowita:\n");
+	scanf("%d",&n);
 	printf("Liczba sklada sie z %d cyfr\n", licznik(n));
 	return 0;
 }
