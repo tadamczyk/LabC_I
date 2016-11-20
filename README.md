@@ -55,8 +55,8 @@ Laboratorium: [dr Janusz Dybizbański](https://inf.ug.edu.pl/~jdybiz/)
   * [x] [zadanie 5](lab7/zad5.c)
   
 8. [Laboratorium 8](lab8)
-  * [x] [zad1_2](lab8/zad1_2.c)
-  * [x] [zad3_4](lab8/zad3_4.c)
+  * [x] [zadanie 1_2](lab8/zad1_2.c)
+  * [x] [zadanie 3_4](lab8/zad3_4.c)
 
 9. [Laboratorium 9](lab9):
   * [x] [zadanie 1](lab9/zad1.c)
