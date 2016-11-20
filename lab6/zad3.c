@@ -17,7 +17,6 @@ int main()
     printf("Podaj liczbe, z ktorej chcesz wyznaczyc pierwiastek:\n");
     scanf("%d",&x);
     int x1=x;
-	printf("Pierwiastek z %d wynosi %.2f\n",x1,sqr(x));
+    printf("Pierwiastek z %d wynosi %.2f\n",x1,sqr(x));
     return 0;
 }
-
